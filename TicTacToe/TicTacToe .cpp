@@ -30,6 +30,8 @@ int main()
         while(quit != 99){
             cout << "Press 1 and enter to play, press 99 to quit" << endl;
             cin >> quit;
+	    if(quit==99)
+            	break;
 
             while(gameOver != true){
                 test.draw();
@@ -50,6 +52,8 @@ int main()
         while(quit != 99){
             cout << "Press 1 and enter to play, press 99 to quit" << endl;
             cin >> quit;
+	    if(quit==99)
+            	break;
 
             while(gameOver != true){
                 ai.draw();
