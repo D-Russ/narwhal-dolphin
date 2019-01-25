@@ -1,4 +1,3 @@
-// Darrious Barger
 // A basic tic-tac-toe game
 
 #include <iostream>
