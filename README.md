@@ -1,2 +1,3 @@
-# narwhal-dolphin
-This contains a tic-tac-toe game with dumb ai
+Hello people,
+
+This contains a simple tic-tac-toe game I wrote in C++ with dumb, random ai.
