@@ -1,4 +1,3 @@
-// Darrious Barger
 //  Class file for stupid AI
 
 #ifndef COMPUTER_H
