@@ -1,4 +1,3 @@
-// Darrious Barger
 //  Class file for a basic tic-tac-toe game
 
 #ifndef GAME_H
